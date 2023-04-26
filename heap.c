@@ -1,7 +1,6 @@
 #include "heap.h"
 #include <string.h>
 #include <stdio.h>
-#include "tested_declarations.h"
 
 #define FOUR_KB 4096
 #define FENCE_LEN 16
