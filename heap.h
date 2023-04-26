@@ -1,6 +1,3 @@
-#ifndef PROJECT1_HEAP_H
-#define PROJECT1_HEAP_H
-
 #include "stdlib.h"
 
 enum pointer_type_t
@@ -41,5 +38,3 @@ int heap_validate(void);
 void heap_show();
 void combine_blocks(block_t* ptr);
 block_t* first_fit(size_t size);
-
-#endif
