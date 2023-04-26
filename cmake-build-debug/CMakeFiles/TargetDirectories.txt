@@ -1,3 +1,0 @@
-C:/Users/matuj/OneDrive - Politechnika Łódzka/III sem/SO2 - Projekty/Alok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/matuj/OneDrive - Politechnika Łódzka/III sem/SO2 - Projekty/Alok/cmake-build-debug/CMakeFiles/project1.dir
-C:/Users/matuj/OneDrive - Politechnika Łódzka/III sem/SO2 - Projekty/Alok/cmake-build-debug/CMakeFiles/edit_cache.dir
