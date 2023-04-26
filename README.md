@@ -7,4 +7,4 @@ The program simulates the behavior of the following functions contained in the s
 * free 
 * realloc
 
-Contains unit tests created by [Dante](https://dante.iis.p.lodz.pl/#/auth/login).
+Contains unit tests downloaded from [Dante](https://dante.iis.p.lodz.pl/#/auth/login).
